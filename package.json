@@ -1,0 +1,23 @@
+{
+  "name": "torrentdownloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "torrentDownloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.14",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "path": "^0.12.7",
+    "readline": "^1.3.0",
+    "webtorrent": "^2.4.12"
+  }
+}
